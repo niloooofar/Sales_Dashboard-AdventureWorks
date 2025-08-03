@@ -10,9 +10,9 @@ The goal of this project is to:
 
 ##### Data Modeling Optimization
 The original data model follows a Snowflake schema. For better performance and simplicity in Power BI, it was optimized into a Star schema by:
-⦁	Flattening lookup dimensions
-⦁	Reducing table joins
-⦁	Keeping only relevant tables and relationships
+-	Flattening lookup dimensions
+-	Reducing table joins
+-	Keeping only relevant tables and relationships
 
 ##### KPI-Based Sales Dashboard
 Some key performance indicators (KPIs) were created
