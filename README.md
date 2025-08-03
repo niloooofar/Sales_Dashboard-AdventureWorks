@@ -2,9 +2,9 @@
 This project showcases a Power BI dashboard and data model optimization based on a sample Data Warehouse. It covers advanced data modeling techniques, performance enhancements, and dynamic visualizations designed to deliver insightful sales analytics.
 Project Overview
 The goal of this project is to:
-⦁	Analyze sales data from a structured Data Warehouse (based on AdventureWorks)
-⦁	Optimize a Snowflake schema into a more efficient Star schema
-⦁	Design an interactive Power BI report with dynamic measures and multiple date relationships
+-	Analyze sales data from a structured Data Warehouse (based on AdventureWorks)
+-	Optimize a Snowflake schema into a more efficient Star schema
+-	Design an interactive Power BI report with dynamic measures and multiple date relationships
 
 #### Key Features
 
