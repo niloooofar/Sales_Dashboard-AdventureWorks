@@ -6,7 +6,7 @@ The goal of this project is to:
 ⦁	Optimize a Snowflake schema into a more efficient Star schema
 ⦁	Design an interactive Power BI report with dynamic measures and multiple date relationships
 
-##### Key Features
+#### Key Features
 
 ##### Data Modeling Optimization
 The original data model follows a Snowflake schema. For better performance and simplicity in Power BI, it was optimized into a Star schema by:
