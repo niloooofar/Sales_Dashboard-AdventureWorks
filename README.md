@@ -19,3 +19,5 @@ Some key performance indicators (KPIs) were created
 
 ##### Dynamic Measure Selection
 A slicer allows users to switch between different measures (e.g., Sales, Quantity, Orders) dynamically, with both the measure values and chart titles updating accordingly.
+
+![Power BI Dashboard](dashboard.png)
